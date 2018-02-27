@@ -12,7 +12,7 @@ class App extends React.Component {
     return(
       <div>
         <main>
-          Hello world
+          <h1>Hello world</h1>
         </main>
       </div>
     );
